@@ -13,6 +13,11 @@ En este proyecto realicé un sistema de exámenes con Angular y Spring Boot que 
   - Bootstrap
   - Angular Material
   - seguir agregando...
+ 
+- **Backend**:
+  - Java
+  - Spring Boot
+  - seguir agregando...
 <!---
 - **Deploy**:
   - Netlify
