@@ -18,6 +18,10 @@ En este proyecto realicé un sistema de exámenes con Angular y Spring Boot que 
   - Java
   - Spring Boot
   - seguir agregando...
+ 
+## Objetivo del Proyecto
+
+Este sistema tiene la finalidad de crear un sistema de exámenes...
 <!---
 - **Deploy**:
   - Netlify
