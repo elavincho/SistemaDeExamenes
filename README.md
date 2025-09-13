@@ -24,13 +24,13 @@ En este proyecto realicé un sistema de exámenes con Angular y Spring Boot que 
 Este sistema tiene la finalidad de crear un sistema de exámenes que cuenta con las siguientes caracteristicas:
 
 - **Administrador**
-- Login
-- Crear categorias
-- Crear test
+  - Login
+  - Crear categorias
+  - Crear test
 
 - **Usuario**
-- Login
-- Realizar test
+  - Login
+  - Realizar test
 
 
 <!---
