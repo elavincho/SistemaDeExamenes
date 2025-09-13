@@ -4,7 +4,7 @@
 
 # Sistema de exámenes con Angular y Spring Boot
 
-En este proyecto realicé un sistema de exámenes con Angular y Spring Boot que tiene la finalidad de tomar un test de selección multiple...
+En este proyecto realicé un sistema de exámenes con Angular y Spring Boot que tiene la finalidad de tomar un test de selección multiple, en la cual el Administrador debe cargar las categorias y los examenes, para que un usuario pueda realizar los mismos. Los test cuentan con un limite de tiempo y la corrección es automatica.
 
 ## Tecnologías utilizadas
 
@@ -21,7 +21,18 @@ En este proyecto realicé un sistema de exámenes con Angular y Spring Boot que 
  
 ## Objetivo del Proyecto
 
-Este sistema tiene la finalidad de crear un sistema de exámenes en la cual el administrador debe cargar el tema de examen para que un usuario pueda rendirlo. Se pueden crear categorias y la corrección de examenes es automatica...
+Este sistema tiene la finalidad de crear un sistema de exámenes que cuenta con las siguientes caracteristicas:
+
+- **Administrador**
+- Login
+- Crear categorias
+- Crear test
+
+- **Usuario**
+- Login
+- Realizar test
+
+
 <!---
 - **Deploy**:
   - Netlify
