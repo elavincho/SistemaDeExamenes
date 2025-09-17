@@ -32,6 +32,7 @@ Este sistema tiene la finalidad de crear un sistema de exámenes que cuenta con 
   - Login
   - Realizar test
 
+## Imágenes del proyecto
 
 <!---
 - **Deploy**:
