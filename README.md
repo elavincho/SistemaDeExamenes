@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="80" height="80" alt="img"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="80" height="80" alt="img"/>  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="80" height="80" alt="img"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="80" height="80" alt="img"/>  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="80" height="80" alt="img"/>        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="80" height="80" alt="img"/>
 
 
 
