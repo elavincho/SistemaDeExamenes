@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="80" height="80" alt="img"/> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="80" height="80" alt="img"/>  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="80" height="80" alt="img"/>        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="80" height="80" alt="img"/>
+
+
 
 # En construcción...
 
@@ -33,6 +35,8 @@ Este sistema tiene la finalidad de crear un sistema de exámenes que cuenta con 
   - Realizar test
 
 ## Imágenes del proyecto
+
+<img src="https://github.com/elavincho/SistemaDeExamenes/blob/master/frontend/imagenes/Captura_de_pantalla1.png" width="200" height="200" alt="img"/>     <img src="https://github.com/elavincho/SistemaDeExamenes/blob/master/frontend/imagenes/Captura_de_pantalla2.png" width="200" height="200" alt="img"/>     <img src="https://github.com/elavincho/SistemaDeExamenes/blob/master/frontend/imagenes/Captura_de_pantalla3.png" width="200" height="200" alt="img"/>     <img src="https://github.com/elavincho/SistemaDeExamenes/blob/master/frontend/imagenes/Captura_de_pantalla4.png" width="200" height="200" alt="img"/>     <img src="https://github.com/elavincho/SistemaDeExamenes/blob/master/frontend/imagenes/Captura_de_pantalla5.png" width="200" height="200" alt="img"/>     <img src="https://github.com/elavincho/SistemaDeExamenes/blob/master/frontend/imagenes/Captura_de_pantalla6.png" width="200" height="200" alt="img"/>     <img src="https://github.com/elavincho/SistemaDeExamenes/blob/master/frontend/imagenes/Captura_de_pantalla7.png" width="200" height="200" alt="img"/>     <img src="https://github.com/elavincho/SistemaDeExamenes/blob/master/frontend/imagenes/Captura_de_pantalla12.png" width="200" height="200" alt="img"/>     <img src="https://github.com/elavincho/SistemaDeExamenes/blob/master/frontend/imagenes/Captura_de_pantalla9.png" width="200" height="200" alt="img"/>     <img src="https://github.com/elavincho/SistemaDeExamenes/blob/master/frontend/imagenes/Captura_de_pantalla10.png" width="200" height="200" alt="img"/>     <img src="https://github.com/elavincho/SistemaDeExamenes/blob/master/frontend/imagenes/Captura_de_pantalla11.png" width="200" height="200" alt="img"/>     <img src="https://github.com/elavincho/SistemaDeExamenes/blob/master/frontend/imagenes/Captura_de_pantalla8.png" width="200" height="200" alt="img"/>
 
 <!---
 - **Deploy**:
