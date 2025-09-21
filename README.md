@@ -14,12 +14,10 @@ En este proyecto realicé un sistema de exámenes con Angular y Spring Boot que 
   - Angular
   - Bootstrap
   - Angular Material
-  - seguir agregando...
  
 - **Backend**:
   - Java
   - Spring Boot
-  - seguir agregando...
  
 ## Objetivo del Proyecto
 
@@ -27,12 +25,21 @@ Este sistema tiene la finalidad de crear un sistema de exámenes que cuenta con 
 
 - **Administrador**
   - Login
-  - Crear categorias
-  - Crear test
+  - Inicio
+  - Perfil
+  - Gestionar categorias
+  - Gestionar examenes
+  - Asignar examenes a distintas categorias
+  - Gestionar cuestionarios
+  - Salir
 
 - **Usuario**
   - Login
-  - Realizar test
+  - Perfil
+  - Examenes disponibles
+  - Temporizador
+  - Realizar examen
+  - Resultados del examen
 
 ## Imágenes del proyecto
 
@@ -58,9 +65,6 @@ Este sistema tiene la finalidad de crear tarjetas de Rick and Morty en la cual o
 - Origen
 - Imagen
 
-## Imágenes del proyecto
-
-<img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_1.png" width="200" height="200" alt="img"/>           <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_2.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_3.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_4.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_5.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_6.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_7.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_8.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_9.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_10.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_11.png" width="200" height="200" alt="img"/>                <img src="https://github.com/elavincho/ReactRickAndMorty/blob/master/img/img_12.png" width="200" height="200" alt="img"/>
 
 
 
